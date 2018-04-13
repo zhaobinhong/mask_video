@@ -21,3 +21,6 @@
 ---
 [GitHub 地址](https://github.com/zhaobinhong/mask_video)
 ---
+
+[Demo 地址](http://hovace.me/mask_video/demo.html)
+---
